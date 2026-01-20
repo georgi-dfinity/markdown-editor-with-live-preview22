@@ -4,5 +4,5 @@
   "frontend/src/components/EditorPane.tsx": "Left pane component containing the markdown textarea with formatting toolbar buttons for bold, italic, headings, links, code blocks, lists, and quotes.",
   "frontend/src/components/PreviewPane.tsx": "Right pane component that renders live HTML preview of markdown content using the marked library loaded from CDN.",
   "frontend/src/hooks/useLocalStorage.ts": "Custom React hook for managing localStorage state with automatic synchronization across browser tabs and error handling.",
-  "frontend/src/index.css": "Global styles with OKLCH color system for light/dark modes, including comprehensive markdown preview styling with proper typography and spacing."
+  "frontend/src/index.css": "Global styles with OKLCH color system updated to use green backgrounds (hue 145) for both light and dark modes, maintaining proper text contrast and readability for all markdown content and UI elements."
 }

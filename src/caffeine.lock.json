@@ -9,7 +9,7 @@
     "build-template-react": "1.0.0",
     "initial-app": "1.0.0"
   },
-  "aiCoreVersion": "0.16.5",
+  "aiCoreVersion": "0.17.0",
   "motokoVersion": "1.0.0-beta",
   "coreLibVersion": "implicits-20"
 }

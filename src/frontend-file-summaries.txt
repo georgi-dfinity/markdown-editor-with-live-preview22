@@ -1,0 +1,8 @@
+{
+  "frontend/src/App.tsx": "Main application component that wraps the app with ThemeProvider, QueryClientProvider, and renders the MarkdownEditor with Toaster for notifications.",
+  "frontend/src/pages/MarkdownEditor.tsx": "Core markdown editor page with split-pane layout, note management (create, save, delete, switch), auto-save functionality, theme toggle, and local storage integration.",
+  "frontend/src/components/EditorPane.tsx": "Left pane component containing the markdown textarea with formatting toolbar buttons for bold, italic, headings, links, code blocks, lists, and quotes.",
+  "frontend/src/components/PreviewPane.tsx": "Right pane component that renders live HTML preview of markdown content using the marked library loaded from CDN.",
+  "frontend/src/hooks/useLocalStorage.ts": "Custom React hook for managing localStorage state with automatic synchronization across browser tabs and error handling.",
+  "frontend/src/index.css": "Global styles with OKLCH color system for light/dark modes, including comprehensive markdown preview styling with proper typography and spacing."
+}

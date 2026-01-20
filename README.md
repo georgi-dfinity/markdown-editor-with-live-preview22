@@ -1,2 +1,8 @@
-# markdown-editor-with-live-preview22
-Exported from Caffeine project: Markdown Editor with Live Preview
+## Markdown Editor with Live Preview
+
+To run app build and run docker image:
+
+```
+docker build -t app .
+docker run -it --network host app
+```
